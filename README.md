@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradeepx03
 - 👀 I’m interested in Web/App Development. 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web frontend projects.
 - 📫 You can contact me through Email- Pradeepyx03@gmail.com
 - 😄 Pronouns: He/Him
